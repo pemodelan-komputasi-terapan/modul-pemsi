@@ -16,7 +16,6 @@
 
 <br>
 
-
 # Reading List
 1. Banks, J., John S. Carson II, "Discrete-Event System Simulation", Prentice Hall.
 2. Law, A., "Simulation Modelling and Analysis", McGraw-Hill.
@@ -44,7 +43,7 @@ git clone https://github.com/pemodelan-komputasi-terapan/modul-pemsi.git
     | Repo | Description |
     | :------- | :------- |
     | [Averill](https://github.com/pemodelan-komputasi-terapan/modul-pemsi/tree/main/Averill) | Reading List Law, A., "Simulation Modelling and Analysis", McGraw-Hill. |
-    | [JerryBanks](https://github.com/pemodelan-komputasi-terapan/modul-pemsi/tree/main/JerryBanks) | Reading List Banks, J., John S. Carson II, "Discrete-Event System Simulation", Prentice Hall. |
+    | [JerryBanks](https://github.com/pemodelan-komputasi-terapan/modul-pemsi/tree/main/JerryBanks) | Reading List Banks, "Discrete-Event System Simulation", Prentice Hall. |
     | [Resources Simulation](https://github.com/pemodelan-komputasi-terapan/modul-pemsi/tree/main/Resources%20Simulation) | The required Excel for this course. |
 
 2. Averill and JerryBanks' materials include PPT and PDF files, as listed in the Reading List
