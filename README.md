@@ -5,7 +5,6 @@
 
 **Mandatory prerequisites** Probability and Statistics 
 
-
 **Content**
 - Modelling and Simulation Concepts  
 - Modelling and Simulation Relationship  
@@ -14,12 +13,10 @@
 - Output Analysis  
 - Creating Simulation Model Using Simulation Tool  
 
-<br>
 
 # Reading List
 1. Banks, J., John S. Carson II, "Discrete-Event System Simulation", Prentice Hall.
 2. Law, A., "Simulation Modelling and Analysis", McGraw-Hill.
-
 
 # Learning Outcomes 
 1. able to explain the concept of simulation, how simulation works, and under what circumstances simulation helps humans find solutions 
@@ -33,8 +30,7 @@
 ```
 git clone https://github.com/pemodelan-komputasi-terapan/modul-pemsi.git
 ```
-#### Recomended to download [ARENA SIMULATION](https://info.arenasimulation.com/v16-esd-0)  for this course
-
+#### Recomended to download [ARENA SIMULATION](https://info.arenasimulation.com/v16-esd-0) for this course, used for the final project and classroom assignments.
 
 # MODUL
 
